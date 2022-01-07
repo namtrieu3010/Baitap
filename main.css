@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+.container{
+    border: solid 3px #931520;
+    width: 700px;
+    margin-left: 400px;
+}
+
+header {
+    background-image: repeating-linear-gradient(40deg, #F5BB72, #F5BB72, white,#F5BB72, #F5BB72); 
+    height: 120px;
+    border-bottom: solid 3px #931520;
+}
+header img{
+    float: left;
+    height: 100px;
+    width: 80px; 
+    padding:25px 0px 0px 25px;
+    
+}
+.header {
+    padding-top: 10px;
+    margin-left: 155px;
+}
+.header h2{
+    color:#7D0104;
+    font-family: Be Vietnam Pro;
+}
+.header h3{ 
+    font-style: italic;
+    margin-top: -20px;
+}
+.header h3 a{
+    text-shadow: 2px 2px 4px #931520;
+}
+.content{
+    margin-top: -5px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    font-family: Be Vietnam Pro;
+
+}
+.content p {
+    margin-top: -5px;
+}
+.content h2{
+    color: #931520;
+
+}
+.content .mission p:last-child{
+    margin-left: 50px;
+    font-style: italic; 
+
+}
+.content ul{
+    margin-top: -5px;
+    margin-left: -20px;
+}
+.content ul li{
+    margin-top: 5px;
+}
+.content hr{
+    height: 2px;
+    background-color: #7D0104;
+}
+.content .guest h3:first-child{
+    margin-bottom: -20px;
+}
+.content .guest img{
+    margin-top: -10px;
+}
+footer{
+    background-color: #7D0104;
+    color: white;
+    height: 50px;
+    text-align: center;
+    
+}
+footer p{
+    padding-top: 15px;
+
+}
